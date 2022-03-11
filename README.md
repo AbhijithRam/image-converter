@@ -17,6 +17,10 @@ Python / 225
 ## Link to product walkthrough
 [link to video]
 
+##Live project
+
+https://replit.com/@ABHIJITHRAMRAM/image-converter#resize.py
+
 ## How it Works ?
 
 1. Changing image format - We can change image format from JPEG to PNG and vice versa
