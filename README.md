@@ -15,7 +15,7 @@ Python / 225
 ```
 
 ## Link to product walkthrough
-[link to video]
+[https://drive.google.com/drive/folders/13sIy4hsKc03G71Tu4rQFmX8heUUmfPTZ?usp=sharing]
 
 ##Live project
 
